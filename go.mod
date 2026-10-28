@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/digineo/go-ping v1.0.1
 	github.com/prometheus/client_golang v1.14.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
 )
