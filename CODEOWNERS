@@ -1,1 +1,5 @@
-*                   @czerwonk
+# Fly.io owners. Upstream entries below are commented out: CODEOWNERS is
+# last-match-wins and they would otherwise override this line.
+* @superfly/machines-team
+
+# *                   @czerwonk
